@@ -134,14 +134,3 @@ Projeto desenvolvido para estudo e aprimoramento em Python.
 
 ```
 
----
-
-Se quiser, posso também:
-
-📌 Criar o **README com badges** (Python, Status, Versão etc.)  
-📌 Criar um **banner para o topo do seu README**  
-📌 Melhorar seu código e corrigir alguns bugs que notei  
-
-Só pedir!
-```
-
